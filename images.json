@@ -1,11 +1,20 @@
+
 {
-  "images": [
-    "https://colorifyai.art/wp-content/uploads/sites/7/2024/04/image-1.webp",
+  "categories": [
+    {
+      "name": "Hayvanlar",
+      "images": [
+     "https://colorifyai.art/wp-content/uploads/sites/7/2024/04/image-1.webp",
     "https://colorifyai.art/wp-content/uploads/sites/7/2024/04/image-3.webp",
     "https://colorifyai.art/wp-content/uploads/sites/7/2024/04/image-5.webp",
     "https://colorifyai.art/wp-content/uploads/sites/7/2024/04/image-6.webp",
-    "https://colorifyai.art/wp-content/uploads/sites/7/2024/04/image-4.webp",
-    "https://i.pinimg.com/736x/e4/18/bd/e418bdee49e402ef9b6d7029ee81839c.jpg",
+    "https://colorifyai.art/wp-content/uploads/sites/7/2024/04/image-4.webp"
+      ]
+    },
+    {
+      "name": "Çizgi Film",
+      "images": [
+       "https://i.pinimg.com/736x/e4/18/bd/e418bdee49e402ef9b6d7029ee81839c.jpg",
     "https://i.pinimg.com/736x/17/7b/90/177b9050a11e267d210c9bde21861252.jpg",
     "https://i.pinimg.com/736x/5d/2b/5f/5d2b5f01d3a017a1a711c585ca8588dc.jpg",
     "https://i.pinimg.com/736x/7a/b8/9e/7ab89e4989d66a152efbab6b31425f5e.jpg",
@@ -28,6 +37,7 @@
     "https://i.pinimg.com/736x/5f/2c/1d/5f2c1d2ab14dbcc32efd789593c9fba3.jpg",
     "https://i.pinimg.com/736x/f2/08/ea/f208ea51b33478ce309cdcefca4ccb10.jpg",
     "https://i.pinimg.com/736x/4f/56/df/4f56dfc89c3087cf46b6c7cc2b1ed026.jpg",
-    
+      ]
+    }
   ]
 }
